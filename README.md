@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @yasmine198
-- 👀 I’m interested in game development.
 - 🌱 I’m currently learning Unity and Unreal Engine.
 - 📫 ms.yasmine.lee@gmail.com.
 
